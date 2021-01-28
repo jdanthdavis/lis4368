@@ -11,6 +11,7 @@
 	<title>My Online Portfolio</title>
 
 	<%@ include file="/css/include_css.jsp" %>		
+	
 
 <!-- Carousel styles -->
 <style type="text/css">
@@ -43,6 +44,7 @@ h2
 	
 	<%@ include file="/global/nav_global.jsp" %>	
 	
+	
 	<div class="container">
 		 <div class="starter-template">
 						<div class="page-header">
@@ -69,12 +71,10 @@ h2
        <!-- Carousel items -->
         <div class="carousel-inner">
 
-				 <div class="active item" style="background: url(img/robot.jpg) no-repeat left center; background-size: cover;">
+				 <div class="active item" style="background: url(img/home.jpg) no-repeat center; background-size: center;">
 					 <div class="container">
 						 <div class="carousel-caption">
-								<h3>First slide label.</h3>
-							 <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget.</p>
-							 <a class="btn btn-large btn-primary" href="#">Learn more</a>
+
 						 </div>
 					 </div>
 				 </div>					

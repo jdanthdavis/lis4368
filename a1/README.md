@@ -43,11 +43,10 @@
 
 ![JDK Java Hello Screenshot](img/tomcat.png)
 
-*Screenshot of Android Studio - My First App*:
+*Screenshot of assignment #1 on Tomcat*:
 
-![Android Studio Installation Screenshot](img/android.png)
+![Home Page](img/home.png)
 
-ff
 #### Tutorial Links:
 
 *Bitbucket Tutorial - Station Locations:*
