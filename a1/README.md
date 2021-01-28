@@ -5,26 +5,23 @@
 
 # LIS4368 Advance Web Applications Development
 
-## Justin Davis Testing
+## Justin Davis
 
 ### Assignment #1 Requirements:
 
-*Sub-Heading:*
-
-1. Ordered-list items
-2. 
-3. 
-
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
+* Distributed Version Control with Git and Bitbucket   
+* Java/JSP/Servlet Development Installation
+* Chapter Questions (Chs 1-4)
+* Screenshot of running Java Hello
+* Screenshot of running http://localhost:9999
+* git commands w/ short descriptions
+* Bitbucket repo links: a) this assignment and b) the completed tutorial above (bitbucketstationlocations)
 
-> This is a blockquote.
+[comment]: <> (> This is a blockquote.)
 > 
-> This is the second paragraph in the blockquote.
+[comment]: <> (> This is the second paragraph in the blockquote.)
 >
 > #### Git commands w/short descriptions:
 
@@ -38,13 +35,13 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
-
-![AMPPS Installation Screenshot](img/ampps.png)
-
 *Screenshot of running java Hello*:
 
-![JDK Installation Screenshot](img/jdk_install.png)
+![JDK Java Hello Screenshot](img/java_hello_screenshot.png)
+
+*Screenshot of running http://localhost:9999*:
+
+![JDK Java Hello Screenshot](img/tomcat.png)
 
 *Screenshot of Android Studio - My First App*:
 
@@ -54,7 +51,4 @@
 #### Tutorial Links:
 
 *Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
+[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/jd19z/bitbucketstationlocations/ "Bitbucket Station Locations")
