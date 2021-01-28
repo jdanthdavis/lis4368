@@ -47,7 +47,7 @@
 
 ![Android Studio Installation Screenshot](img/android.png)
 
-
+f
 #### Tutorial Links:
 
 *Bitbucket Tutorial - Station Locations:*
