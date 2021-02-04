@@ -25,17 +25,13 @@
 
 ![Query Results Screenshot](img/query.png)
 
-*Screenshot of http://localhost:9999/hello*:
+*Screenshot of http://localhost:9999/hello*:             |  *Screenshot of http://localhost:9999/hello/sayhello*:             | Screenshot of * http://localhost:9999/hello/querybook.html*:
+:-------------------------:|:-------------------------:|:------------------------------------------------:
+![Hello](img/helloindex.png)  |  ![Sayhello](img/sayhello.png)  | ![Querybook](img/querybook.png)
 
-![Hello](img/helloindex.png)
+*Screenshot of A2 Portfolio*:
 
-*Screenshot of http://localhost:9999/hello/sayhello*:
-
-![Sayhello](img/sayhello.png)
-
-*Screenshot of * http://localhost:9999/hello/querybook.html*:
-
-![Querybook](img/querybook.png)
+![A2Port](img/a2Port.png)
 
 #### Tutorial Links:
 
