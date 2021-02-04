@@ -17,7 +17,10 @@
     - Provide git command descriptions
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
-    - TBD
+    - Write a "Hello-world" Java Servlet
+    - Write a Database Servlet
+    - Read "How to Debug?"
+    - Compile servlet files
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
     - TBD
