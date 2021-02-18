@@ -7,7 +7,7 @@
 
 ## Justin Davis
 
-### Assignment #1 Requirements:
+### Assignment #2 Requirements:
 
 * The following links should properly display
 * http://localhost:9999/hello(Displays directory! It should not! Needs index.html)
