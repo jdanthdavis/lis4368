@@ -24,12 +24,13 @@
 #### Assignment Screenshots:
 
 *Screenshot of ERD*
+
 ![A3 ERD Screenshot](img/erd.png "ERD based upon A3 requirements")
-*Screenshot of query results*:
 
 *A3 docs: a3.mwb and a3.sql*:
 
-[A3 MWB File](docs/a3/lis4368_a3.mwb)
+[A3 MWB File](docs/a3/lis4368_a3.mwb "A3 ERD in .mwb format")
+[A3 SQL File](docs/lis4368_a3.sql "A3 SQL Script")
 
 #### Tutorial Links:
 
