@@ -23,7 +23,11 @@
     - Compile servlet files
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
-    - TBD
+    - Screenshot of ERD
+    - Screenshot of a3/index.jsp
+    - Links to following the files:
+        - a3.mwb
+        - a3.sql
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
     - TBD
