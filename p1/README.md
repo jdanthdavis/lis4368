@@ -24,7 +24,7 @@
 
 *Screenshot of Main Page*:
 
-![Main Page Screenshot](img/query.png)
+![Gif of Main Page](img/main.gif)
 
 *Gif of Form Controls*:
 

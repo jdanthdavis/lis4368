@@ -20,6 +20,11 @@ h1
 .navbar-custom,
 .navbar-nav a {
 		background-color: #c8c6a7;
-		border-color: #c8c6a7;
+		border-color: #FDAA9D;
 		color:rgb(81, 85, 90)
 	}
+
+.carousel-control.right,
+.carousel-control.left {
+    background: transparent;
+}

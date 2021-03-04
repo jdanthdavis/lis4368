@@ -56,7 +56,7 @@ h2
 	<div
       id="myCarousel"
 		class="carousel"
-		data-interval="3500"
+		data-interval="4500"
 		data-pause="hover"
 		data-wrap="true"
 		data-keyboard="true"			
@@ -71,30 +71,30 @@ h2
        <!-- Carousel items -->
         <div class="carousel-inner">
 
-				 <div class="active item" style="background: url(img/home.jpg) no-repeat center; background-size: center;">
+				 <div class="active item" style="background: url(img/blue_pastel.png) no-repeat center; background-size: cover;">
+					<h2>Visit my Linkedin Page!</h2>
+					<h3>On my Linkedin page you'll find my most recent resume along with my technical skills!</h3>
+					<a href="https://www.linkedin.com/" class="btn btn-info" role="button">Linkedin</a>
 					 <div class="container">
-						 <div class="carousel-caption">
-
+						 <div class ="carousel-caption">
 						 </div>
 					 </div>
 				 </div>					
 
-         <div class="item" style="background: url(img/code4.jpg) no-repeat left center; background-size: cover;">
-                <h2>Slide 2</h2>
-                <div class="carousel-caption">
-                  <h3>Second slide label</h3>
-                  <p>Aliquam sit amet gravida nibh, facilisis gravida odio.</p>
-						 <!--  <img src="img/slide2.png" alt="Slide 2">									 -->						
+         <div class="item" style="background: url(img/green_pastel.png) no-repeat left center; background-size: cover;">
+                <h2>Visit my Bitbucket to see my latest work!</h2>
+				<h3>On my Bitbucket you'll see my latest updates to my Adv. Mobile App and Adv. Web App repos!</h3>
+				<a href="https://bitbucket.org/jd19z" class="btn btn-info" role="button">Bitbucket</a>
+				<div class="carousel-caption">					
                 </div>
             </div>
 
-         <div class="item" style="background: url(img/keyboard.jpg) no-repeat left center; background-size: cover;">
-                <h2>Slide 3</h2>
-                <div class="carousel-caption">
-                  <h3>Third slide label</h3>
-                  <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-						<!--  <img src="img/slide3.png" class="img-responsive" alt="Slide 3">							 -->								
-                </div>
+         <div class="item" style="background: url(img/pink_pastel.png) no-repeat left center; background-size: cover;">
+			<h2>Check out my Career Portfolio!</h2>
+			<h3>Here you can get to know a bit more about me and my career!</h3>
+			<a href="https://justin-career-portfolio.webflow.io/" class="btn btn-info" role="button">Portfolio</a>
+			<div class="carousel-caption">					
+			</div>
             </div>
 
         </div>
