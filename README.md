@@ -30,16 +30,16 @@
         - a3.sql
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
-    - Suitably modify meta tags in index.jsp.
-    - Change title, navigation links, and header tags appropriately.
-    - Add form controls to match attributes of *customer* entity.
-    - Use *regex* to only allow appropriate characters for each control.
+    - TBD
 
 5. [A5 README.md](a5/README.md "My A5 README.md file")
     - TBD
 
 6. [P1 README.md](p1/README.md "My P1 README.md file")
-    - TBD
+    - Suitably modify meta tags in index.jsp.
+    - Change title, navigation links, and header tags appropriately.
+    - Add form controls to match attributes of *customer* entity.
+    - Use *regex* to only allow appropriate characters for each control.
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
     - TBD
