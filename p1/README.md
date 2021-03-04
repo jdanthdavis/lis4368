@@ -22,7 +22,7 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of Main Page*:
+*Gif of Main Page*:
 
 ![Gif of Main Page](img/main.gif)
 
