@@ -4,4 +4,4 @@
     GregorianCalendar currentDate = new GregorianCalendar();
     int currentYear = currentDate.get(Calendar.YEAR);
 %>
-&copy; Copyright <%= currentYear %> My Footer, Inc.
+&copy; Copyright <%= currentYear %> Davis Designs, Inc.

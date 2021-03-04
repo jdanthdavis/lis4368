@@ -1,6 +1,7 @@
 <%@ page import="java.util.Date, java.util.TimeZone, java.text.SimpleDateFormat" %>
 
-<nav class="navbar navbar-inverse navbar-fixed-top">
+
+<nav class="navbar navbar-custom navbar-fixed-top nav_bar">
 		<div class="container">			
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -9,11 +10,11 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="../index.jsp" target="_self">Home</a>
 			</div>
 
 			<div id="navbar" class="collapse navbar-collapse">
 				<ul class="nav navbar-nav">
+					<li><a href="../index.jsp">Home</a></li>
 					<li><a href="../index.jsp">LIS 4368</a></li>
 					<li><a href="../a1/index.jsp">A1</a></li>
 					<li><a href="../a2/index.jsp">A2</a></li>
@@ -21,8 +22,7 @@
 					<li><a href="../customerform.jsp?assign_num=a4">A4</a></li>
 					<li><a href="../customerform.jsp?assign_num=a5">A5</a></li>
 					<li><a href="../p1/index.jsp">P1</a></li>
-					<li><a href="../customerform.jsp?assign_num=p2">P2</a></li>
-					<li><a href="../test/index.jsp">Test</a></li>					
+					<li><a href="../customerform.jsp?assign_num=p2">P2</a></li>	
 				</ul>
 			</div><!--/.nav-collapse -->
 		</div>

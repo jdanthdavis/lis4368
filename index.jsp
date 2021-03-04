@@ -18,14 +18,14 @@
 h2
 {
 	margin: 0;     
-	color: #666;
+	color: rgb(12, 12, 12);
 	padding-top: 50px;
 	font-size: 52px;
 	font-family: "trebuchet ms", sans-serif;    
 }
 .item
 {
-	background: #333;    
+	background: rgb(126, 12, 82);    
 	text-align: center;
 	height: 300px !important;
 }
@@ -56,7 +56,7 @@ h2
 	<div
       id="myCarousel"
 		class="carousel"
-		data-interval="1000"
+		data-interval="3500"
 		data-pause="hover"
 		data-wrap="true"
 		data-keyboard="true"			
