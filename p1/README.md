@@ -28,7 +28,7 @@
 
 *Gif of Form Controls*:
 
-![Form Control Gif](img/form.gif)
+![Form Control Gif](img/control.gif)
 
 *Screenshot of Failed Data Validation*
 
