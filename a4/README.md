@@ -34,17 +34,17 @@
 
 #### Skill Sets Code:
 
-[SS10](docs/TravelTime.java)
+[SS10](docs/countCharacters.java)
 
-[SS11](docs)
+[SS11](docs/FileWriteReadCount.java)
 
-[SS12](docs)
+[SS12](docs/Ascii.java)
 
 *Screenshot of running JDK SS10-SS12*:
 
 Gif of SS10             |  Screenshot of SS11             | Screenshot of SS12          
 :-------------------------:|:-------------------------:|:------------------------------------------------:
-![SS10 Gif](img/ss10.gif)  |  ![SS11 Screenshot](img/ss11.png)  | ![SS12 Screenshot](img/ss10.gif)
+![SS10 Gif](img/ss10.png)  |  ![SS11 Screenshot](img/ss11.png)  | ![SS12 Screenshot](img/ss12.gif)
 
 #### Tutorial Links:
 
