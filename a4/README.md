@@ -9,28 +9,21 @@
 
 ### Assignment #4 Requirements:
 
-* Create a petstore table, pet table, and customer table
-* Each table requires at least 10 records, *and* be able to forward-engineer locally
-* Create an ERD for the database
+* Compile servlet files
+* Complete SS10 - SS12
 
 #### README.md file should include the following items:
 
-* Screenshot of ERD;
-* Screenshot of a3/index.jsp
-* Links to the following items:
-    * a3.mwb
-    * a3.sql
+* Screenshots of passed and failed validation
+* Screenshots of SS10 - SS12
 
 #### Assignment Screenshots:
 
 *Screenshot of ERD*
 
-![A3 ERD Screenshot](img/erd.png "ERD based upon A3 requirements")
-
-*A3 docs: a3.mwb and a3.sql*:
-
-[A3 MWB File](docs/lis4368_a3.mwb "A3 ERD in .mwb format")
-[A3 SQL File](docs/lis4368_a3.sql "A3 SQL Script")
+Screenshot of Passed Validation             |  Screenshot of Failed Validation          
+:-------------------------:|:-------------------------:|
+![Passed Screenshot](img/thanks.png)  |  ![Failed Screenshot](img/required.png)
 
 #### Skill Sets Code:
 
