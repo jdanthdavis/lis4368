@@ -30,7 +30,9 @@
         - a3.sql
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
-    - TBD
+    - Screenshots of passed and faield validation.
+    - Compile servlet files.
+    - Screenshots of SS10 - SS12
 
 5. [A5 README.md](a5/README.md "My A5 README.md file")
     - TBD
