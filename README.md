@@ -4,7 +4,7 @@
 
 ## Justin Davis
 
-### Class Number Requirements:
+### LIS4368 Requirements:
 
 *Course Work Links:*
 
