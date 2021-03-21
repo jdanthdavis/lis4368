@@ -27,7 +27,9 @@ Screenshot of Pre-Validation             |  Screenshot of Post-Validation
 
 *Screenshot of MYSQL entry*
 
-![MySQL Entry](img/db.png)
+MYSQL entry             |
+:-------------------------:|
+![MySQL Entry](img/db.png) |
 
 #### Skill Sets Code:
 
