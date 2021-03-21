@@ -33,7 +33,7 @@ Screenshot of Pre-Validation             |  Screenshot of Post-Validation
 
 [SS13](docs/countCharacters.java)
 
-[SS14](docs/FileWriteReadCount.java)
+[SS14](docs/FileWriteReadCunt.java)
 
 [SS15](docs/Ascii.java)
 
