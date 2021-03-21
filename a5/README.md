@@ -31,7 +31,7 @@ Screenshot of Pre-Validation             |  Screenshot of Post-Validation
 
 #### Skill Sets Code:
 
-[SS13](docs/countCharactrs.java)
+[SS13](docs/countCharacrs.java)
 
 [SS14](docs/FileWriteReadCunt.java)
 
