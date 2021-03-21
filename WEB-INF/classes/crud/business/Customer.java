@@ -66,6 +66,7 @@ public class Customer implements Serializable
 		this.lname = parLastName;
 		this.street = parStreet;
 		this.city = parCity;
+		this.state = parState;
 		this.zip = parZip;
 		this.phone = parPhone;
 		this.email = parEmail;

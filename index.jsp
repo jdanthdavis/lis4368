@@ -23,6 +23,7 @@ h2
 	font-size: 52px;
 	font-family: "trebuchet ms", sans-serif;    
 }
+
 .item
 {
 	background: rgb(126, 12, 82);    

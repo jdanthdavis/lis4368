@@ -281,7 +281,7 @@ $(document).ready(function() {
 							},
 					},
 
-				state: {
+					state: {
 							validators: {
 									notEmpty: {
 											message: 'State is required'
@@ -289,12 +289,12 @@ $(document).ready(function() {
 									stringLength: {
 											min: 2,
 											max: 2,
-											message: 'State must be two characters.'
+											message: 'State no more than 2 characters'
 									},
 									regexp: {
-										regexp: /^[a-zA-Z]+$/,
-										message: 'State can only contain letters'
-									},									
+										regexp: /^[a-zA-Z\-]+$/,
+										message: 'State can only contain letters.'
+									},																		
 							},
 					},
 				

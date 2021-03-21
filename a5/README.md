@@ -21,9 +21,13 @@
 
 *Screenshot of ERD*
 
-Screenshot of Passed Validation             |  Screenshot of Failed Validation          
+Screenshot of Pre-Validation             |  Screenshot of Post-Validation       
 :-------------------------:|:-------------------------:|
-![Passed Screenshot](img/thanks.png)  |  ![Failed Screenshot](img/required.png)
+![Passed Screenshot](img/pre.png)  |  ![Failed Screenshot](img/pass.png)
+
+*Screenshot of MYSQL entry*
+
+![MySQL Entry](img/db.png)
 
 #### Skill Sets Code:
 

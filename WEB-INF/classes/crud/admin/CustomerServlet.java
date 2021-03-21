@@ -25,7 +25,7 @@ import javax.servlet.annotation.*;
 
 //import Customer and CustomerDB classes
 import crud.business.Customer;
-//import crud.data.CustomerDB;
+import crud.data.CustomerDB;
 
 //servlet mapping for Servlet 3.0
 //servlet Customer is mapped to the URL pattern /customerAdmin
@@ -129,7 +129,7 @@ public class CustomerServlet extends HttpServlet
 				else
 					{
 						//add customer
-						//CustomerDB.insert(user);
+						CustomerDB.insert(user);
 						message = ""; //reset message variable to empty string
 						url = "/thanks.jsp"; //pass user to thanks.jsp page
 					}

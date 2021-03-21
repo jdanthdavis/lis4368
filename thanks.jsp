@@ -36,6 +36,7 @@
 			<label>LName:</label> <c:out value="${user.lname}" /> <br />
 			<label>Street:</label> <c:out value="${user.street}" /> <br />
 			<label>City:</label> <c:out value="${user.city}" /> <br />
+			<label>State:</label> <c:out value="${user.state}" /> <br />
 			<label>Zip:</label> <c:out value="${user.zip}" /> <br />
 			<label>phone:</label> <c:out value="${user.phone}" /> <br />
 			<label>Email:</label> <c:out value="${user.email}" /> <br />
