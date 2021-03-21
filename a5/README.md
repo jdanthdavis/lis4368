@@ -33,7 +33,7 @@ MYSQL entry             |
 
 #### Skill Sets Code:
 
-[SS13](docs/countCharacrs.java)
+[SS13](docs/NumberSwap.java)
 
 [SS14](docs/FileWriteReadCunt.java)
 
@@ -43,7 +43,7 @@ MYSQL entry             |
 
 Gif of SS13             |  Screenshot of SS14             | Screenshot of SS15          
 :-------------------------:|:-------------------------:|:------------------------------------------------:
-![SS10 Gif](img/ss10.png)  |  ![SS11 Screenshot](img/ss11.png)  | ![SS12 Screenshot](img/ss12.gif)
+![SS10 Gif](img/ss13.gif)  |  ![SS11 Screenshot](img/ss11.png)  | ![SS12 Screenshot](img/ss12.gif)
 
 #### Tutorial Links:
 
