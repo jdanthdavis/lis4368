@@ -43,7 +43,7 @@ MYSQL entry             |
 
 Gif of SS13             |  Screenshot of SS14             | Screenshot of SS15          
 :-------------------------:|:-------------------------:|:------------------------------------------------:
-![SS13 Gif](img/ss13.gif)  |  ![SS14 Gif](img/ss14.gif)  | ![SS12 Screenshot](img/ss14.gif)
+![SS13 Gif](img/ss13.gif)  |  ![SS14 Gif](img/ss14.gif)  | ![SS12 Screenshot](img/ss15.gif)
 
 #### Tutorial Links:
 
