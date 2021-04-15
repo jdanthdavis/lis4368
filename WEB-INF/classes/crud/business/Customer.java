@@ -187,7 +187,7 @@ public class Customer implements Serializable
 		return totalSales;
 	}
 
-	public void getTotalSales(String parTotalSales)
+	public void setTotalSales(String parTotalSales)
 	{
 		this.totalSales = parTotalSales;
 	}

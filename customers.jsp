@@ -5,10 +5,10 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="My online portfolio that illustrates skills acquired while working through various project requirements.">
-		<meta name="author" content="Mark K. Jowett, Ph.D.">
+		<meta name="author" content="Justin Davis">
 		<link rel="icon" href="favicon.ico">
 
-		<title>CRSXXXX - JSP Forms</title>
+		<title>Customers - JSP Forms</title>
 
 		<%@ include file="/css/include_css.jsp" %>		
 
@@ -45,7 +45,15 @@
 							<tr>
 								<th class="text-center">Fname</th>
 								<th class="text-center">Lname</th>
+								<th class="text-center">Street</th>
+								<th class="text-center">City</th>
+								<th class="text-center">State</th>
+								<th class="text-center">Zip</th>
+								<th class="text-center">Phone</th>
 								<th class="text-center">Email</th>
+								<th class="text-center">Balance</th>
+								<th class="text-center">Total Sales</th>
+								<th class="text-center">Notes</th>
 								<th class="text-center">&nbsp;</th>
 								<th class="text-center">&nbsp;</th>
 							</tr>
@@ -68,7 +76,15 @@
 								<tr class="text-left">
 									<td><c:out value="${user.fname}" /></td>
 									<td><c:out value="${user.lname}" /></td>
+									<td><c:out value="${user.street}" /></td>
+									<td><c:out value="${user.city}" /></td>
+									<td><c:out value="${user.state}" /></td>
+									<td><c:out value="${user.zip}" /></td>
+									<td><c:out value="${user.phone}" /></td>
 									<td><c:out value="${user.email}" /></td>
+									<td class="text-right"><c:out value="${user.balance}"/></td>
+									<td class="text-right"><c:out value="${user.totalSales}"/></td>
+									<td><c:out value="${user.notes}" /></td>
 
 									<!-- Create form buttons and hidden input fields to pass data.  //-->
 									<% //for debugging, test input (test servlet provided): action="testInput" %>					

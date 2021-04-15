@@ -358,7 +358,7 @@ $(document).ready(function() {
 							},
 					},
 
-				balance: {
+					balance: {
 							validators: {
 									notEmpty: {
 											message: 'Balance is required'
