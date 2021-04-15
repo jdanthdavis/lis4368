@@ -47,4 +47,5 @@
     - Use *regex* to only allow appropriate characters for each control
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
-    - TBD
+    - Include server-side validation from A4
+    - Complete the JSP/Servlets web application using the MVC framework and providing *create*, *read*, *update*, and *delete* (CRUD) functionalilty
