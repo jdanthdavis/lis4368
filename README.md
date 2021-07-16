@@ -1,5 +1,3 @@
-> **NOTE:** This README.md file should be placed at the **root of each of your main directory.**
-
 # LIS4368 Advance Web Applications Development
 
 ## Justin Davis
